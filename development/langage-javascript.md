@@ -86,12 +86,25 @@ Description :
 
 Description :
 
+
 ## 🌐 J'utilise des ressources
 
-### Titre
+### W3Schools
 
-- lien
-- description
+- https://www.w3schools.com/js/default.asp
+
+### MDN
+
+- https://developer.mozilla.org/en-US/docs/Learn
+
+### FreeCodeCamp
+
+- https://www.freecodecamp.org/news
+
+### Grafikart
+
+- https://grafikart.fr/formations/formation-javascript
+
 
 ## 🚧 Je franchis les obstacles
 
@@ -108,6 +121,6 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ✔️
 
