@@ -58,12 +58,16 @@ Fonction pour obtenir la valeur minimale d'une liste :
 
 ### Utilisation dans un projet  ✔️
 
- - [Projet Kanap](https://github.com/sofrdr/P5--Kanap)
-   
-   Description : Projet de formation Openclassrooms. Développement de la
+ - [Kanap](https://github.com/sofrdr/P5--Kanap)   
+   Projet de formation Openclassrooms. Développement de la
    partie front-end d'un site e-commerce de canapés en Javascript.
    Manipulation du DOM, ajouts d'évènements, contrôle des données avec
    Regex, gestion d'un panier.
+   
+ - [ Hot Takes - Application d'avis gastronomiques](https://github.com/sofrdr/P6-Piiquante)
+Projet de formation Openclassrooms qui consistait à créer une API sécurisée pour une application web de critique de sauces piquantes. Les utilisateurs devaient pouvoir ajouter leurs sauces préférées et liker/disliker les sauces ajoutées par les autres. Développement avec Node.js/Express/MongoDB.
+- [ Groupomania - Réseau social d'entreprise](https://github.com/sofrdr/P7-Groupomania)
+Projet de formation Openclassrooms qui consistait à créer un réseau social interne aux employés de l'entreprise Groupomania. Utilisation de Node.js/Express/SQLite pour la partie back et de React pour la partie front. Création de compte et authentification de l'utilisateur, gestions des droits pour la modification et suppression de posts, possibilité de créer un post avec une image. 
 
 ### J'ai utilisé ce langage en production ❌ / ✔️
 
