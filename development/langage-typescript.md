@@ -6,10 +6,37 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
-- les classes et les decorators ❌ / ✔️
+ - l'intéret de TypeScript dans l'IDE  ✔️
+Typescript permet de décrire les variables, fonctions et autres éléments du code, cela est utile pour éviter des erreurs de type et améliore la lisibilité du code. Par exemple avec Typescript si on déclare une variable de type number , on ne pourra pas ensuite lui attribuer une valeur de type string sans déclencher une erreur. 
+
+ - les types de bases ✔️
+	
+	**number** : pour les valeurs numériques (flottants et entiers)
+	**string** : les chaînes de caractères
+	**boolean** : les booléens (true ou false)
+	**array** : un tableau de valeurs, par exemple `string []` représente un tableau de chaînes de caractères
+	**any** : un type flexible qui permet à un élément de prendre n'importe quelle valeur
+	**null**
+	**undefined**
+	**void** : définit l'absence de type, souvent utilisé pour les fonctions qui ne retournent aucune valeur
+ - comment et pourquoi étendre une interface  ✔️
+L'extension d'une interface permet à l'interface enfant d'hériter des propriétés de l'interface parent tout en ajoutant de nouvelles propriétés, ce qui est pratique pour éviter la duplication de code. Pour étendre une interface on utilise le mot-clé **extends**
+ `interface ParentInterface {
+ prop1 : string,
+ prop2 : number,
+ }
+`
+    `interface ChildInterface extends ParentInterface {
+    prop3 : boolean
+    }`
+    ` const object : ChildInterface = {
+    prop1 : "hello",
+    prop2: 25, 
+    prop3: true
+    } `
+    
+
+ - les classes et les decorators ❌ / ✔️
 
 ## 💻 J'utilise
 
